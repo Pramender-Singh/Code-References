@@ -1,0 +1,8 @@
+[
+	{
+		"INPUT_PATH": "./src/test/resource/testdata/input.csv"
+	},
+	{
+		"OUTPUT_PATH": "./src/test/resource/testdata/output.csv"
+	}
+]

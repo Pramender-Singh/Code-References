@@ -1,0 +1,29 @@
+name,email,age,country,region
+Bob White,charlie.johnson@example.com,65,India,Asia
+Alice Brown,bob.white@example.com,30,Germany,Europe
+Alice Brown,emily.davis@example.com,63,France,Europe
+John Doe,alice.brown@example.com,30,Germany,Europe
+John Doe,charlie.johnson@example.com,30,India,Asia
+Jane Smith,jane.smith@example.com,37,Uk,Europe
+John Doe,emily.davis@example.com,61,Australia,Oceania
+Charlie Johnson,john.doe@example.com,58,Uk,Europe
+Jane Smith,alice.brown@example.com,34,Canada,North America
+Charlie Johnson,emily.davis@example.com,36,Australia,Oceania
+Emily Davis,emily.davis@example.com,44,Australia,Oceania
+Emily Davis,john.doe@example.com,64,Germany,Europe
+Emily Davis,john.doe@example.com,30,Usa,North America
+Bob White,alice.brown@example.com,31,Uk,Europe
+Emily Davis,emily.davis@example.com,49,France,Europe
+Emily Davis,john.doe@example.com,58,Uk,Europe
+Alice Brown,charlie.johnson@example.com,31,France,Europe
+Jane Smith,charlie.johnson@example.com,67,Uk,Europe
+Alice Brown,alice.brown@example.com,53,Uk,Europe
+Alice Brown,john.doe@example.com,59,Canada,North America
+Charlie Johnson,bob.white@example.com,64,Canada,North America
+Bob White,bob.white@example.com,42,France,Europe
+Bob White,alice.brown@example.com,39,Australia,Oceania
+Jane Smith,charlie.johnson@example.com,20,Uk,Europe
+Charlie Johnson,alice.brown@example.com,67,Canada,North America
+Jane Smith,john.doe@example.com,32,France,Europe
+Charlie Johnson,bob.white@example.com,43,Germany,Europe
+Alice Brown,bob.white@example.com,18,Canada,North America

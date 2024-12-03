@@ -1,0 +1,6 @@
+2024-11-29 16:28:42,153 - INFO - Invalid Record: {'name': 'Alice Brown', 'email': 'emily.davis@example.com', 'age': 'age', 'country': 'USA'}
+2024-11-29 16:28:42,153 - INFO - Invalid Record: {'name': 'Emily Davis', 'email': 'alice.brown@example.com', 'age': '-5', 'country': 'Australia'}
+2024-11-29 16:28:42,154 - INFO - Invalid Record: {'name': 'John Doe', 'email': 'john.doe@example.com', 'age': 'age', 'country': 'Germany'}
+2024-11-29 16:28:42,154 - INFO - Invalid Record: {'name': 'Alice Brown', 'email': 'jane.smith@example.com', 'age': '-5', 'country': 'Germany'}
+2024-11-29 16:28:42,157 - INFO - Invalid Record: {'name': 'Bob White', 'email': 'jane.smith@example.com', 'age': 'invalid', 'country': 'UK'}
+2024-11-29 16:28:42,160 - INFO - Invalid Record: {'name': 'Jane Smith', 'email': 'emily.davis@example.com', 'age': 'age', 'country': 'UK'}

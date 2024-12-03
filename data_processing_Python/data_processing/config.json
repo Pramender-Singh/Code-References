@@ -1,0 +1,7 @@
+{
+  "input_file": "/home/ditsdev181/Downloads/sample_data.csv",
+  "output_file": "app/output/transformed_data.csv",
+  "country_to_region": "region.json",
+  "invalid_log": "app/output/invalid_data.log",
+  "underage_log": "app/output/under_age.log"
+}

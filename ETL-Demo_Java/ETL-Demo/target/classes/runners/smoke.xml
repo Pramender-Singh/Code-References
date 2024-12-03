@@ -1,0 +1,7 @@
+<suite name="ETL Suite" verbose="1">
+    <test name="ETL Test">
+        <classes>
+            <class name="com.etl.test.ETLTest"/>
+        </classes>
+    </test>
+</suite>
